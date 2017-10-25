@@ -1,3 +1,15 @@
+---
+layout: post
+title: "How to call REST API"
+date: 2017-10-23
+categories:
+  - REST
+  - API Testing
+  - RestTemplate
+  - Retrofit
+description: "How to call REST API on client side"
+---
+
 # REST API 라이브러리 
 
 ### RestTemplate
