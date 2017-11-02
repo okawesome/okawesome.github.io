@@ -17,7 +17,7 @@ description: "How to call REST API on client side"
 Spring에서 제공하는 Client Side에서 REST를 활용하기 위한 클래스
 ```
 ##### 예시
-```java
+~~~java
 import org.junit.Assert;
 import org.junit.Test;
 import org.springframework.http.HttpStatus;
@@ -35,7 +35,7 @@ public class SpringbootstudyApplicationTests {
 
 }
 
-```
+~~~
 ##### Retrofit
 ```
 - Android, Java를 위한 client-side REST API 라이브러리
